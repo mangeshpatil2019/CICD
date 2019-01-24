@@ -2,7 +2,7 @@ public class googleauthclass{
 
      public string authtoken{get;set;}
      public string refereshtoken{get;set;}
-     public string bodyprint{get;set;}      //added new line
+     public string bodyprint{get;set;}      //added new line // for new release 1.2 //for new release1.3 //release1.4
 
 //Settings needed on the google cloud console.One can store this securely in custom settings or an object.
 
